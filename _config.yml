@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
   
-theme: beautiful-jekyll
+theme: Architect
